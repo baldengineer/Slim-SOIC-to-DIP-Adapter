@@ -1,3 +1,4 @@
+![Rendered view of a 0.3 inch DIP adapter](https://github.com/baldengineer/Slim-SOIC-to-DIP-Adapter/blob/main/images/SOIC-to-DIP%20Adapters%20render%20in%20OSH%20Park%20colors.png)
 ## Slim SOIC-to-DIP Adapter
 Original width adapter for drop-in DIP logic chips
 
